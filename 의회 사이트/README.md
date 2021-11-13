@@ -7,4 +7,4 @@
 -> 밑에 산출물 사진 업로드 (개인정보를 위해 이메일과 휴대폰 번호 숨김)  
 
 
-<img src = "https://blog.kakaocdn.net/dn/chRomF/btrkK8qHGKM/n2cyTscXR5Kwv79jOsmdb1/img.png" width="30%" height="30%">
+<img src = "https://blog.kakaocdn.net/dn/chRomF/btrkK8qHGKM/n2cyTscXR5Kwv79jOsmdb1/img.png" width="100%" height="100%">
