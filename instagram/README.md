@@ -49,10 +49,10 @@ https://www.instagram.com/ID
 # instagram crawling project process 2
 
 
------------- Data path ------------------
-Which directory should be used by logstash and its plugins
-for any persistent needs. Defaults to LOGSTASH_HOME/data
-path.data: /var/lib/logstash (기본 값임)
+------------ Data path ------------------   
+Which directory should be used by logstash and its plugins  
+for any persistent needs. Defaults to LOGSTASH_HOME/data  
+path.data: /var/lib/logstash (기본 값임)  
 
 
 
@@ -90,7 +90,14 @@ path.data: /var/lib/logstash (기본 값임)
 
 
 <img src = "https://blog.kakaocdn.net/dn/kZ3mW/btq3y7iSTwG/0yVRLS5U678viEpKs9ePg0/img.png" width="100%" height="100%">   
--> CSV로 저장된 값 (닉네임, 게시글 수, 팔로워 수, 팔로잉 수, 대쉬보드)
+-> CSV로 저장된 값 (닉네임, 게시글 수, 팔로워 수, 팔로잉 수, 대쉬보드)   
+　 
+　
+　
+
+
+
+
 
 
 <img src = "https://blog.kakaocdn.net/dn/rsoid/btq4J8NJre9/Dx76khKrv1GIhqL3rUdeNk/img.png" width="100%" height="100%">   
