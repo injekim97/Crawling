@@ -5,8 +5,8 @@
 
 ***
 * 2021.11.22 : 법률구조공단 크롤링 파일  
-** 법률구조공단 크롤링(PC).ipynb : PC에서 돌아가는 크롤링 파일**  
-** KLAC.craw.py : 리눅스 서버에서 돌아가는 크롤링 파일**  
+**법률구조공단 크롤링(PC).ipynb : PC에서 돌아가는 크롤링 파일**  
+**KLAC.craw.py : 리눅스 서버에서 돌아가는 크롤링 파일**  
 
 
 <img src = "https://blog.kakaocdn.net/dn/N5DzA/btq9CudSsDw/7dCoERYf7pyBjOXZCg3iEK/img.png" width="100%" height="100%">   
