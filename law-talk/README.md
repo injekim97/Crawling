@@ -9,5 +9,5 @@
 
 
 
-<img src = "https://blog.kakaocdn.net/dn/rsoid/btq4J8NJre9/Dx76khKrv1GIhqL3rUdeNk/img.png" width="100%" height="100%">   
+<img src = "https://blog.kakaocdn.net/dn/lZ9x7/btq9AhZQq81/1O70aCiNQhucVads2CGFFk/img.png" width="100%" height="100%">   
 -> CSV로 저장된 값 (게시글 내용 및 댓글, 해당 게시글 좋아요 수, 좋아요 누른 사람의 닉네임)  
