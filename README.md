@@ -43,3 +43,9 @@ crontab 설정 방법 및 sh파일.txt
 
 **2022.01.11**   
 -> 면접 준비를 위한 해당 기업의 면접 데이터 크롤링을 위해 jobplanet 리포지토리 생성   
+***
+
+
+**2022.01.12**   
+-> selenium을 jupyter notebook 에서 실행 하면 webdriver는 정상적으로 실행 되는데 경고창이 자꾸 발생 한다.   
+-> 해결 방법 (파일명:DeprecationWarning 해결 방법.txt)     
