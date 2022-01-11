@@ -1,8 +1,6 @@
-[2022.01.12] How to solve DeprecationWarning on jupyter notebook?
-
-
-
 해당 게시글은 데이터를 크롤링 할 때 아래와 같은 경고창을 없애기 위한 방법이다.
+
+
 <ipython-input-17-a7be9bf35be8>:9: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
   driver = webdriver.Chrome('C:\/chromedriver.exe') # 제어하기 위해 변수 선언
 -> selenium을 jupyter notebook 에서 실행 하면 webdriver는 정상적으로 실행 되는데 경고창이 자꾸 발생 한다.
